@@ -22,3 +22,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.pz3_skurihina_pr24102", appContext.packageName)
     }
 }
+//12
